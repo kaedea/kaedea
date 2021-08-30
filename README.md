@@ -4,6 +4,6 @@
 ### ハローワールド 👋
 
 - 🔭 &nbsp;Focus on Android
-- 🌱 &nbsp;Interested in Programing/ACGN/日本語/旅立
+- 🌱 &nbsp;Interested in Programing/ACGN/日語
 - 💬 &nbsp;www.kaedea.com
 - 📫 &nbsp;[Twitter](https://twitter.com/kidhaibara)、[Pixiv](http://www.pixiv.net/member.php?id=1820813)
